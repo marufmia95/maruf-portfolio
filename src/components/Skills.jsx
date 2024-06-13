@@ -36,11 +36,11 @@ const Skills = () => {
                 <img src={tailwind} alt="" />
                 <p className='mt-2'>tailwind</p>
             </div>
-{/* 
+
             <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
                 <img src={react} alt="" />
                 <p className='mt-2'>React</p>
-            </div> */}
+            </div>
 
         </div>
     );
