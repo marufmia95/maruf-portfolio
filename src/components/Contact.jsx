@@ -25,7 +25,7 @@ const Contact = () => {
             <div className='w-[48%] text-left'>
                 <section className='contact-form'>
                     <h3 className='text-4xl mb-3 font-bold primary-color'>Contact Form</h3>
-                    <form action="#" className='form'>
+                    <form action="https://getform.io/f/panvowqa" method='POST' className='form'>
                         <div className='input-wrapper'>
                             <input
                                 type='text'
@@ -57,18 +57,27 @@ const Contact = () => {
                             // focus:border-pink-600
                             placeholder='Your message'
                         ></textarea>
-                        <a
-                            href="/"
+                        {/* <a
+                            href="#"
                             className='form-btn px-6 py-3 w-full flex justify-center items-center rounded-xl bg-gradient-to-br from-orange-500 to-pink-500 text-white'
                             aria-label="Send Message"
                         >
                             Send Message
-                        </a>
+                        </a> */}
+                        <div className='sm:col-span-2'>
+                        <button type='submit'
+                                className='text-xl w-full p-4 mt-2 font-semibold text-white bg-primary-color rounded-md'
+                        >
+                            Send
+                        </button>
+                        </div>
                     </form>
                 </section>
             </div>
         </section>
     );
 };
+
+// https://app.getform.io/forms/panvowqa
 
 export default Contact;

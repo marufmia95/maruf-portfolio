@@ -1,4 +1,3 @@
-
 /*-----------------------------------*\
   #CONTACT
 \*-----------------------------------*/
@@ -11,8 +10,7 @@
     border: 1px solid var(--jet);
     overflow: hidden;
   }
-  
-  .mapbox figure { height: 100%; }
+    .mapbox figure { height: 100%; }
   
   .mapbox iframe {
     width: 100%;
