@@ -36,7 +36,7 @@ const Hero = () => {
 
                 <div className='my-8'>
                     <a
-                        href="/"
+                        href="https://drive.google.com/file/d/1reuDkp1JwoMrWMmKdytOmAL_u7HOsltT/view"
                         className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white'
                         aria-label="Download CV"
                     >
