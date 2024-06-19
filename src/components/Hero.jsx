@@ -11,14 +11,14 @@ const Hero = () => {
             </div>
 
             <div className='col-span-2 px-5 my-auto'>
-                <h1 className='text-white text-4xl sm:text-5xl lg:text-8xl font-extrabold'>
+                <h1 className='text-white text-4xl sm:text-5xl lg:text-6xl font-extrabold'>
                     <span className='text-orange-500'>
                         I'm a 
                     </span>
                     <br />
                     <TypeAnimation
                         sequence={[
-                            "Junior Web Developer",
+                            "Junior Web Dev..",
                             1000,
                             "Web Designer",
                             1000,
