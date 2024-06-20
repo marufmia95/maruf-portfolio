@@ -8,7 +8,7 @@ import react from '../assets/react.png';
 const Skills = () => {
     return (
         <div>
-            <h1 className='text-4xl mb-3 font-bold primary-color mt-[160px]  ml-[10%]'>Skil</h1>
+            <h1 className='text-4xl mb-3 font-bold primary-color mt-[160px]  ml-[10%]'></h1>
         <div className='border border-gray-600  bg-black text-gray-400 md:h-auto max-w-[1200px] mx-auto flex flex-wrap justify-center md:justify-between sm: items-center'>
             <h2 className='text-gray-700 text-xl md:text-4xl font-bold m-4'>
                 My <br /> Tech <br /> Stack
