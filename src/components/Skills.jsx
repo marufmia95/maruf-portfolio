@@ -25,18 +25,18 @@ const Skills = () => {
             </div>
 
             <div className='flex flex-col items-center m-4 w-[40px] md:w-auto'>
+                <img src={tailwind} alt="Tailwind CSS" className='w-[50px]' />
+                <p className='mt-2'>Tailwind</p>
+            </div>
+            <div className='flex flex-col items-center m-4 w-[40px] md:w-auto'>
                 <img src={javascript} alt="JavaScript" className='w-[50px]' />
                 <p className='mt-2'>JavaScript</p>
             </div>
 
-            <div className='flex flex-col items-center m-4 w-[40px] md:w-auto'>
-                <img src={tailwind} alt="Tailwind CSS" className='w-[50px]' />
-                <p className='mt-2'>Tailwind</p>
-            </div>
 
             <div className='flex flex-col items-center m-4 w-[40px] md:w-auto'>
                 <img src={react} alt="React" className='w-[50px]' />
-                <p className='mt-2'>React</p>
+                <p className='mt-2'>React js</p>
             </div>
         </div>
         </div>
