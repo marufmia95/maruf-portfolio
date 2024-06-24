@@ -8,9 +8,7 @@ const handleNav = () => {
     setNav(!nav)
 }
 
-
-
-    return (
+return (
         <div>
             <div>
                 <div className='bg-black text-gray-400 h-[100px] mx-w-[1200px] mx-auto flex justify-between items-center'>

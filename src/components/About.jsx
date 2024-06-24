@@ -10,7 +10,10 @@ const About = () => {
                 <div className='my-auto mx-6'>
                     <h2 className='text-4xl font-bold mb-4 primary-color'>About Me</h2>
                     <p className='text-base lg:text-lg'>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam nisi enim et, doloremque voluptatem commodi officiis officia dolore temporibus? Placeat explicabo nemo corporis facere ullam ea minus atque, cumque neque animi exercitationem necessitatibus, laborum aperiam eligendi culpa sint! Iure harum alias voluptas quia maxime eveniet ipsum eos rem nesciunt vel.
+                    To secure a challenging Front-End Web Developer position where
+                    I can leverage my strong foundation in HTML, CSS, JavaScript,
+                     React.js along with my passion for creating visually appealing and intuitive user interfaces. 
+                     My goal is to contribute innovative solutions to enhance the user experience and collaborate with a dynamic team in a growthoriented organization.
                     </p>
                 </div>
             </div>
