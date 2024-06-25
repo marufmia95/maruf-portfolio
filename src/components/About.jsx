@@ -11,7 +11,7 @@ const About = () => {
                     <h2 className='text-4xl font-bold mb-4 primary-color'>About Me</h2>
                     <p className='text-base lg:text-lg'>
                     To secure a challenging Front-End Web Developer position where
-                    I can leverage my strong foundation in HTML, CSS, JavaScript,
+                    I can leverage my strong foundation in HTML, CSS, Tailwind CSS, JavaScript,
                      React.js along with my passion for creating visually appealing and intuitive user interfaces. 
                      My goal is to contribute innovative solutions to enhance the user experience and collaborate with a dynamic team in a growthoriented organization.
                     </p>
