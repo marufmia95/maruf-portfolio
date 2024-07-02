@@ -11,7 +11,7 @@ const Hero = () => {
             </div>
 
             <div className='col-span-2 px-5 my-auto'>
-                <h1 className='text-white text-4xl sm:text-5xl lg:text-6xl font-extrabold'>
+                {/* <h1 className='text-white text-4xl sm:text-5xl lg:text-6xl font-extrabold'>
                     <span className='text-orange-500'>
                         I'm a 
                     </span>
@@ -31,7 +31,7 @@ const Hero = () => {
                         speed={50}
                         repeat={Infinity}
                     />
-                </h1>
+                </h1> */}
                 <p className='text-white sm:text-lg my-6 lg:text-xl'>
                     My name is Maruf and I have 2+ years of experience in web development.
                 </p>
@@ -45,7 +45,7 @@ const Hero = () => {
                         Download CV
                     </a>
                     <a
-                        href="#contact"
+                        href="/Contact"
                         className='px-6 py-3 w-full rounded-xl border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500 text-white hover:border-none'
                         aria-label="Contact"
                     >
