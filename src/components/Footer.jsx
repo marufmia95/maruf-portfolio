@@ -33,16 +33,16 @@ const Footer = () => {
                     </div>
                     <div >
                         <h1 className="font-bold text-xl mb-4">Social Icons</h1>
-                        <a href="#"><FaInstagramSquare className="text-3xl  mb-2" /></a>
-                        <a href="https://twitter.com/mia_maruf17792"><FaTwitter className="text-3xl  mb-2" /></a>
-                        <a href="https://www.linkedin.com/in/md-maruf-mia-7745b72b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><IoLogoLinkedin className="text-3xl  mb-2" /></a>
-                        <a href="https://web.whatsapp.com/"><FaWhatsappSquare className="text-3xl  mb-2" /></a>
-                        <a href="https://github.com/marufmia95"><FaGithub className="text-3xl  mb-2" /></a>
+                        <a href="#"><FaInstagramSquare className="text-3xl block mb-2" /></a>
+                        <a href="https://twitter.com/mia_maruf17792"><FaTwitter className="text-3xl block  mb-2" /></a>
+                        <a href="https://www.linkedin.com/in/md-maruf-mia-7745b72b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><IoLogoLinkedin className="text-3xl block mb-2" /></a>
+                        <a href="https://web.whatsapp.com/"><FaWhatsappSquare className="text-3xl block mb-2" /></a>
+                        <a href="https://github.com/marufmia95"><FaGithub className="text-3xl block  mb-2" /></a>
                     </div>
                 </div>
                 <div className="text-center mt-8">
                     <hr className="border-gray-600 mb-4" />
-                    <p>&copy; 2024 - All Rights Reserved</p>
+                    <p>&copy; 2025 - All Rights Reserved</p>
                 </div>
             </div>
         </footer>
