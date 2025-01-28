@@ -1,5 +1,6 @@
 import React from 'react';
 import aboutImg from '../assets/about.jpg'
+import { TypeAnimation } from 'react-type-animation';
 
 const About = () => {
     return (
@@ -8,12 +9,22 @@ const About = () => {
 
             <div className='mt-4 md:mt-0 text-left flex '>
                 <div className='my-auto mx-6'>
-                    <h2 className='text-4xl font-bold mb-4 primary-color'>About Me</h2>
+               <h2 className='text-4xl font-bold mb-4 primary-color'>
+                <TypeAnimation
+                        sequence={[
+                            "আমার বিষয়ে কিছু কথা",
+                            1000,   
+                            "About Me",
+                            1000,   
+                        ]}
+                        wrapper='span'
+                        speed={50}
+                        repeat={Infinity}
+                    />
+                    </h2>
+                    {/* <h2 className='text-4xl font-bold mb-4 primary-color'>About Me</h2> */}
                     <p className='text-base lg:text-lg'>
-                    To secure a challenging Front-End Web Developer position where
-                    I can leverage my strong foundation in HTML, CSS, Tailwind CSS, JavaScript,
-                     React.js along with my passion for creating visually appealing and intuitive user interfaces. 
-                     My goal is to contribute innovative solutions to enhance the user experience and collaborate with a dynamic team in a growthoriented organization.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis reiciendis molestiae atque facilis exercitationem error repellat nobis nostrum, voluptatem maxime libero, ut, inventore iusto a sunt. Impedit consequuntur facilis distinctio sed quod atque ipsum debitis veritatis, in qui explicabo et obcaecati aut, alias consequatur magnam dolores reiciendis, enim quas laborum?
                     </p>
                 </div>
             </div>

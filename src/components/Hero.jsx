@@ -12,40 +12,31 @@ const Hero = () => {
 
             <div className='col-span-2 px-5 my-auto'>
                 <h1 className='text-white text-4xl sm:text-5xl lg:text-6xl font-extrabold'>
-                    <span className='text-orange-500'>
-                        I'm a 
-                    </span>
-                    <br />
-                    <TypeAnimation
+                <TypeAnimation
                         sequence={[
-                            "Junior Web Dev..",
-                            1000,
-                            "Web Designer",
-                            1000,
-                            "Consultant",
-                            1000,
-                            "Digital creator",
-                            1000,
-                            "Frontend Developer",
-                            1000,
+                            "আমার জীবন বৃত্তান্ত",
+                            1000,   
+                            "My biography",
+                            1000,   
                         ]}
                         wrapper='span'
                         speed={50}
                         repeat={Infinity}
                     />
+                    <p className='text-black'>.</p>
+                    <span className='text-orange-500'>
+                    সাবিহা তাবাসসুম
+                    </span>
+                    <br />
+                    
+                    
                 </h1>
                 <p className='text-white sm:text-lg my-6 lg:text-xl'>
-                    My name is Maruf and I have 2+ years of experience in web development.
+                     আমি আমার বাবা মায়ের একমাত্র সন্তান
                 </p>
 
                 <div className='my-8'>
-                    <a
-                        href="https://drive.google.com/file/d/1reuDkp1JwoMrWMmKdytOmAL_u7HOsltT/view"
-                        className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white'
-                        aria-label="Download CV"
-                    >
-                        Download CV
-                    </a>
+                    
                     <a
                         href="/Contact"
                         className='px-6 py-3 w-full rounded-xl border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500 text-white hover:border-none'
