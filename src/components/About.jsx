@@ -12,7 +12,7 @@ const About = () => {
                <h2 className='text-4xl font-bold mb-4 primary-color'>
                 <TypeAnimation
                         sequence={[
-                            "আমার বিষয়ে কিছু কথা",
+                            "আমার সম্পর্কে",
                             1000,   
                             "About Me",
                             1000,   
