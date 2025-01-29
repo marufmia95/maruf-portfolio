@@ -24,7 +24,7 @@ const About = () => {
                     </h2>
                     {/* <h2 className='text-4xl font-bold mb-4 primary-color'>About Me</h2> */}
                     <p className='text-base lg:text-lg'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis reiciendis molestiae atque facilis exercitationem error repellat nobis nostrum, voluptatem maxime libero, ut, inventore iusto a sunt. Impedit consequuntur facilis distinctio sed quod atque ipsum debitis veritatis, in qui explicabo et obcaecati aut, alias consequatur magnam dolores reiciendis, enim quas laborum?
+                    আমি সাবিহা তাবাসসুম, আমি আমার বাবা মায়ের একমাত্র সন্তান, আমার বাবা সুলাইমান, আামর মা আফরুজা রুমা, আমার জন্ম ১৯-০১-২৫ ৮:২০ মিনিট  রোজ রবিবার,আমার জন্মস্থান ময়মনসিংহের ট্রমা সেন্টারে, ডাক্তার কাওসারনিগার মায়া। আমাকে প্রথম দেখেছেন আমার আব্বু, আমাকে প্রথম কুলে নিয়েছে আমার দাদু, আমাকে আমার আব্বু কোলে নিয়ে ৫০০ টাকা উপহার দিয়েছেন।।
                     </p>
                 </div>
             </div>
