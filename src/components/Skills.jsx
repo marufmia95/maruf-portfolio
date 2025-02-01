@@ -3,12 +3,12 @@ import React from 'react';
 const Skills = () => {
     return (
         <div className="mt-40 mx-4">
-            <h1 className="text-2xl sm:text-4xl mb-3 font-bold text-center text-gray-300">My Skills</h1>
+            <h1 className="text-2xl sm:text-4xl mb-3 font-bold text-center primary-color">My Name</h1>
 
             <div className="border border-gray-600 bg-black text-gray-400 max-w-[1200px] mx-auto p-4 flex flex-wrap justify-center gap-4 md:justify-between items-center">
                 
                 <h2 className="text-gray-200 text-lg sm:text-2xl md:text-4xl font-bold text-center w-full">
-                    My <br /> Name
+                    {/* My <br /> Name */}
                 </h2>
 
                 <div className="flex flex-col items-center w-full sm:w-auto">
