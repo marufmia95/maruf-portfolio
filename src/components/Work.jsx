@@ -5,6 +5,7 @@ import proj3 from '../assets/proj3.jpg'
 import proj4 from '../assets/proj4.jpg'
 import proj5 from '../assets/proj5.png'
 import proj6 from '../assets/quiz App.png'
+import proj7 from '../assets/proj6.jpeg'
 
 const Work = () => {
     return (
@@ -107,6 +108,18 @@ const Work = () => {
             <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
             <span className='text-2xl font-bold text-white tracking-wider'>আজ আমার বয়স ১মাস পূর্ন হলো</span>
             <span className='text-2xl font-bold text-white tracking-wider'>১৯-০২-২০২৫ইং</span>
+            </div>
+            </div>
+
+
+
+            <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden 
+                    shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center
+                    h-[400px] bg-cover relative'>
+            <img src={proj7} layout="fill"  />
+            <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
+            <span className='text-2xl font-bold text-white tracking-wider'>আজকে আমার প্রথম টিক  দেয়া হয়েছে</span>
+            <span className='text-2xl font-bold text-white tracking-wider'>০৯-০৩-২০২৫ইং</span>
             </div>
             </div>
 
