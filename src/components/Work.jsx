@@ -118,7 +118,7 @@ const Work = () => {
                     h-[400px] bg-cover relative'>
             <img src={proj7} layout="fill"  />
             <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-            <span className='text-2xl font-bold text-white tracking-wider'>আজকে আমার প্রথম টিক  দেয়া হয়েছে</span>
+            <span className='text-2xl font-bold text-white tracking-wider'>আজকে আমার প্রথম টিক দেয়া হয়েছে, ৪টা টিকা একসাথে দেয়া হয়েছে </span>
             <span className='text-2xl font-bold text-white tracking-wider'>০৯-০৩-২০২৫ইং</span>
             </div>
             </div>
